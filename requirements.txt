@@ -1,5 +1,5 @@
-# requirements.txt
-python=3.09
+requirements.txt
+python=3.11
 snowflake-snopark-python
 streamlit
 requests
